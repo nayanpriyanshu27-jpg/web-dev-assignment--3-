@@ -1,8 +1,8 @@
 # Assignment 3: Inventory and Data Management System
 
 **Course:** Web Dev III <br>
-**Name:** Aryan Kumar <br>
-**Roll No:** 2501730431 <br>
+**Name:** Priyanshu Nayan <br>
+**Roll No:** 2501730428 <br>
 **Date:** 17-11-2026
 
 ## About
